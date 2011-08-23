@@ -1,2 +1,2 @@
 Estamos aprendiendo GIT
-Buenos días mundo
+Buenas tardes mundo
